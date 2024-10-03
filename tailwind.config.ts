@@ -118,7 +118,7 @@ const config = {
       },
       animation: {
         scroll:
-            'scroll var(--animation-duration, 40s) var(--animation-direction, forwards) linear infinite',
+          'scroll var(--animation-duration, 40s) var(--animation-direction, forwards) linear infinite',
         spotlight: 'spotlight 2s ease .75s 1 forwards',
         'accordion-down': 'accordion-down 0.2s ease-out',
         'accordion-up': 'accordion-up 0.2s ease-out',
